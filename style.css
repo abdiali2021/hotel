@@ -177,3 +177,19 @@ img{
      width: 100vw;
  }
 }
+
+/** title */
+.title{
+ text-transform: uppercase;
+ letter-spacing: 3px;
+ font-size: 30px;
+ color: var(--yellow);
+ border-bottom: 5px solid var(--dark);
+ width: 235px;
+ margin: 15px 0;
+}
+
+.sec-width{
+ width: 85vw;
+ margin: 0 auto!important;
+}
