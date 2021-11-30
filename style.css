@@ -107,6 +107,7 @@ img{
 .head-btn:hover{
  background: transparent;
  background-color: #f9d342;
+ border: 0.1px solid #f9d342;
  color: #1d1b1b;
  border-radius: 20px;
 }
