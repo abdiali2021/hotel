@@ -54,7 +54,7 @@ img{
 
 /* header */
 .header{
- background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("images/banner-img.jpg") center/cover no-repeat;
+ background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500") center/cover no-repeat;
  min-height: 100vh;
  color: #fff;
  padding: 25px;
@@ -278,7 +278,7 @@ img{
  transition: var(--transition);
 }
 .room-image:hover img{
- transform: scale(1.1);
+ transform: scale(1.07);
 }
 @media (min-width: 900px){
  .rooms-container{
